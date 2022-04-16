@@ -8,4 +8,4 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
   2. Utilize seus conhecimentos na manipulação do DOM para criar a imagem e ativar o evento de clique do botão!
 
 # Demonstração: 
-api-cats.gif
+https://raw.githubusercontent.com/stebsnusch/basecamp-javascript/main/javascript-assincrono/api-cats.gif
